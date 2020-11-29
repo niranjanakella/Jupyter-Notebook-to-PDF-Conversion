@@ -15,7 +15,7 @@ pip install nbconvert
  <br>
  <br>
 
--  Download the "**wkhtmltopdf**" library/tool to convert the '.html' file to '.pdf' : - https://wkhtmltopdf.org/downloads.html
+-  Download the "**wkhtmltopdf**" library/tool to convert the '.html' file to '.pdf' : - <a herf = "https://wkhtmltopdf.org/downloads.html" target = "_top"> HERE </a>
 - Install the "**pdfkit**" library through the following command
 ```
 pip install pdfkit
@@ -39,4 +39,4 @@ jupyter nbconvert --to html Yournotebook.ipynb
 Jupyter Terminal can be found here:-
 <p align = "center"><img src = "https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/img/Jupyter_Terminal.png?raw=true"></img></p>
 
-- Further convert the HTML file into PDF file through the PDF_Converter.py file 
+- Further convert the HTML file into PDF file through the <a href="https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/PDF_Converter.py" target="_top">PDF_Converter.py</a> file: -  

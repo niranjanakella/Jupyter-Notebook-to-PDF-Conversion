@@ -32,11 +32,13 @@ pip install pdfkit
 - Convert Jupyter Notebook to HTML file. In the below command mention the complete path of your jupyter notebook (Example: jupyter nbconvert --to html C:\Users\niran\Desktop\ipynb_to_pdf\mynotebook.ipynb).
 <br>
 
--  Perform the below operation in Jupyter Terminal
+-  Perform the below operation in Jupyter Terminal.
 ```
 jupyter nbconvert --to html Yournotebook.ipynb
 ```
 Jupyter Terminal can be found here:-
 <p align = "center"><img src = "https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/img/Jupyter_Terminal.png?raw=true"></img></p>
 
-- Further convert the HTML file into PDF file through the <a href="https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/PDF_Converter.py" target="_top">PDF_Converter.py</a> file: -  
+- Further convert the HTML file into PDF file through the <a href="https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/PDF_Converter.py" target="_top">PDF_Converter.py</a> file.
+
+**Note**: - Go through the  <a href="https://github.com/niranjanstudy06/Jupyter-Notebook-to-PDF-Conversion/blob/main/PDF_Converter.py" target="_top">PDF_Converter.py</a> file keenly.

@@ -15,7 +15,7 @@ pip install nbconvert
  <br>
  <br>
 
--  Download the "**wkhtmltopdf**" library/tool to convert the '.html' file to '.pdf' : - <a href="https://wkhtmltopdf.org/downloads.html" target="_top">Download Page</a>
+-  Download the "**wkhtmltopdf**" library/tool to convert the '.html' file to '.pdf' : - <a href="https://wkhtmltopdf.org/downloads.html" target="_top">HERE</a>
 - Install the "**pdfkit**" library through the following command
 ```
 pip install pdfkit
